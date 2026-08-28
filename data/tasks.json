@@ -1,1 +1,98 @@
-
+[
+  {
+    "id": "t1",
+    "title": "Revise wind farm copy",
+    "description": "Remove construction/access implications from the copy. Shelley following up with Eric.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t2",
+    "title": "Post new thought leadership piece for incoming RFP",
+    "description": "Content is ready ($2k budget RFP). Dale to post when back from vacation.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t3",
+    "title": "Final case study/report for RFP thought leadership",
+    "description": "Due upon campaign conclusion.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t4",
+    "title": "Send Data Centres postcard list",
+    "description": "Send the name/location list for the postcard to Mira for formatting.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t5",
+    "title": "Confirm Marshall Land Systems meeting details",
+    "description": "Confirm meeting details and whether Mira should join. Also confirm partnership approach and whether marketing budgets will be pooled or kept separate. TBD when Dale returns (late September?).",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t6",
+    "title": "Fall webinar planning \u2014 wildlife crossings & mining/MSC retaining wall",
+    "description": "Two webinars planned for fall (wildlife crossings end of November; mining/MSC retaining wall product), promoted via LinkedIn. AIL to provide further details when available. Inviting a biological crossings expert for the wildlife webinar \u2014 confirmation pending.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": "2026-11-30"
+  },
+  {
+    "id": "t7",
+    "title": "Demand-gen proposal for data centers",
+    "description": "Prepare proposal including required creative specs. Deliver three budget-tier options (CAD 8k, 5k, 3k).",
+    "owner": "Mira",
+    "status": "In Progress",
+    "due": ""
+  },
+  {
+    "id": "t8",
+    "title": "Map cross-product thought leadership landing pages",
+    "description": "Explore which existing landing pages can host cross-product thought leadership content.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t9",
+    "title": "Draft evergreen thought leadership content (Sound Walls)",
+    "description": "Draft evergreen thought leadership content for priority units, starting with Sound Walls.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t10",
+    "title": "Data Centres booth draw prize & landing page ownership",
+    "description": "Decide on the booth draw prize and confirm who owns the landing page creative.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t11",
+    "title": "Confirm international campaign budget for next phase",
+    "description": "Shelley to confirm whether the international campaign continues or requires new budget. International team has requested a working session with Mira to discuss performance and map the next six months; Shelley to request a six-month sales and marketing plan first. Recommended media mix: Google Display plus LinkedIn.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  },
+  {
+    "id": "t12",
+    "title": "Pull Salesforce lead/revenue report",
+    "description": "Shelley to pull a Salesforce report showing website-attributed leads and revenue YTD.",
+    "owner": "AIL",
+    "status": "Needs Client Input",
+    "due": ""
+  }
+]
