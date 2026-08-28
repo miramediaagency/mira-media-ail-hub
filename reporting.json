@@ -1,0 +1,31 @@
+[
+  {
+    "id": "r1",
+    "period": "July 2026",
+    "title": "Monthly Performance Report",
+    "summary": "July marked a shift toward greater scale and lower media costs. Broader Display and Performance Max delivery expanded the account's audience significantly, so CTR and conversions normalized off June's unusually strong peak while building a larger base for future conversion growth.",
+    "metrics": [
+      { "label": "Impressions", "value": "819,429" },
+      { "label": "Clicks", "value": "23,989" },
+      { "label": "Cost / Click", "value": "$0.71" },
+      { "label": "CTR", "value": "4.48%" },
+      { "label": "Conversions", "value": "3,293" }
+    ],
+    "link": ""
+  },
+  {
+    "id": "r2",
+    "period": "May 2026",
+    "title": "Google & Bing Ads Performance Overview",
+    "summary": "Performance varied widely by business unit this month. Sound Walls led on conversion volume, with Algonquin Bridge and AIL Canada also driving meaningful conversions. Mining and International generated significant traffic without measurable conversions in this period, and Ultra-Cor USA had no active campaigns.",
+    "metrics": [
+      { "label": "Sound Walls Conversions", "value": "1,791" },
+      { "label": "AIL Canada Conversions", "value": "442" },
+      { "label": "Algonquin Bridge Conversions", "value": "196" },
+      { "label": "Mining Impressions", "value": "141,960" },
+      { "label": "International Spend", "value": "$1,532.65" },
+      { "label": "Ultra-Cor USA", "value": "No active campaigns" }
+    ],
+    "link": ""
+  }
+]

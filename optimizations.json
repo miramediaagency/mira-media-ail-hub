@@ -1,0 +1,42 @@
+[
+  {
+    "id": "o1",
+    "date": "2026-07-31",
+    "channel": "Google Ads",
+    "title": "Display campaign optimizations \u2014 Mining",
+    "description": "Expanded Mining's reach through Display, more than doubling impressions while reducing CPC from $0.15 to $0.12.",
+    "impact": "Clicks +74% MoM"
+  },
+  {
+    "id": "o2",
+    "date": "2026-07-31",
+    "channel": "Google Ads",
+    "title": "Scaled Sound Walls delivery",
+    "description": "Expanded reach on the account's primary conversion driver while cutting cost per click roughly in half.",
+    "impact": "CPC down from $0.66 to $0.32"
+  },
+  {
+    "id": "o3",
+    "date": "2026-07-31",
+    "channel": "Google Ads",
+    "title": "Improved Algonquin Bridge efficiency",
+    "description": "Expanded reach and traffic while lowering cost per click, keeping CTR stable despite the larger scale.",
+    "impact": "Traffic +23% MoM, CPC down from $0.66 to $0.49"
+  },
+  {
+    "id": "o4",
+    "date": "2026-07-31",
+    "channel": "Google Ads",
+    "title": "Scaled International campaigns",
+    "description": "Grew reach across Perth and Brisbane delivery while improving cost per click.",
+    "impact": "Conversions +27% MoM, CPC down from $1.30 to $1.08"
+  },
+  {
+    "id": "o5",
+    "date": "2026-07-31",
+    "channel": "Google Ads",
+    "title": "Expanded AIL Canada reach",
+    "description": "Grew impressions while holding conversion rate and cost efficiency steady.",
+    "impact": "Impressions +11% MoM, conversion rate held at 36.7%"
+  }
+]
